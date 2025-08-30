@@ -133,19 +133,23 @@ Animations: All main characters and enemies are animated for 2D movement.
 ---
 
 ## Requirements
-Unity Engine (recommended version: specify your Unity version)
-C#
+  * Unity Engine (Recommended version: Please specify your Unity version, e.g., 2021.3 LTS)
+  * C# (Compatible with Unity's scripting environment)
+  * Optional: ShaderLab support for custom shaders
 
 ---
 
 ## License
 
-State your license (MIT, GPL, or "All rights reserved", etc.)
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+Copyright (c) 2025 Reddy-Priya-Pedhannavari
 
 ---
 
 ## Contact
 
-Your name or team, email address, or link to your GitHub profile for questions.
+Created and maintained by [RPriya234.](https://github.com/Reddy-Priya-Pedhannavari)
+For questions or feedback, please open an issue or contact directly.
 
 ---
