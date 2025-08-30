@@ -66,9 +66,32 @@ Add game screenshots or GIFs here.
 
 ## How to Play
 
-1. Step-by-step instructions or controls
-2. Example: Use arrow keys to move, space to shoot, etc.
-3. Objective of the game
+Step-by-Step Instructions & Controls
+**Start the Game**: Press the play/start button to begin.
+
+**Movement:**
+Use the **Right Arrow** key to move your character to the right.
+Use the **Left Arrow** key to move your character to the left.
+
+**Objective-Related Actions:**
+Attack enemies (such as the dinosaur, witch, and dragon) using weapons like a gun or knife.
+Defeat the witch by hitting her with 20 bullets to escape the magical house.
+Defeat the dragon by hitting it with 20 dragon bullets.
+**Collectibles**: Gather coins and hearts scattered along the journey for bonus points.
+
+**Objective of the Game**
+Embark on a quest as a treasure hunter to find the legendary Final Treasure.
+Overcome obstacles and defeat mythical enemies:
+**Dinosaur**: Battle with your choice of weapon.
+**Witch**: Survive her attacks in the magical house and escape.
+**Dragon**: Face the final challenge and defeat the dragon to reveal the treasure.
+Collect extra coins and hearts for additional points.
+
+**Scoring & Game Strategy**
+**Defeating Enemies**: Progress by defeating each enemy to advance to the next stage.
+**Collectibles**: Each heart/coin collected increases your score.
+**Survival**: Preserve your lives—losing all lives ends the game.
+**Winning**: Defeat the dragon to win and claim the treasure. The game displays a winner panel with your score, and you can choose to play again or exit.
 
 ---
 
