@@ -149,7 +149,7 @@ Copyright (c) 2025 Reddy-Priya-Pedhannavari
 
 ## Contact
 
-Created and maintained by [RPriya234.](https://github.com/Reddy-Priya-Pedhannavari)
+Created and maintained by [Reddy-Priya-Pedhannavari.](https://github.com/Reddy-Priya-Pedhannavari)
 For questions or feedback, please open an issue or contact directly.
 
 ---
