@@ -58,8 +58,8 @@ Write a short introduction to your project, its goals, and what makes it interes
 Add game screenshots or GIFs here.
 
 ```
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.gif)
+![Uploading image.png…]()
+
 ```
 
 ---
