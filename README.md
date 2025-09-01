@@ -55,11 +55,11 @@ Write a short introduction to your project, its goals, and what makes it interes
 
 **Screenshots:**
 
-https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20165152.png
-https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170321.png
-https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170417.png
-https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170453.png
-https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170533.png
+<img src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20165152.png?raw=true" alt="Screenshot 1" width="400"/>
+<img src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170321.png?raw=true" alt="Screenshot 2" width="400"/>
+<img src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170417.png?raw=true" alt="Screenshot 3" width="400"/>
+<img src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170453.png?raw=true" alt="Screenshot 4" width="400"/>
+<img src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170533.png?raw=true" alt="Screenshot 5" width="400"/>
 
 ---
 
@@ -68,6 +68,22 @@ https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/I
 https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250901_153155348.mp4
 https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_115910534.mp4
 https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_120341262.mp4
+
+<video width="400" controls>
+  <source src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250901_153155348.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="400" controls>
+  <source src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_115910534.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="400" controls>
+  <source src="https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_120341262.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
