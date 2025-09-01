@@ -168,7 +168,7 @@ Animations: All main characters and enemies are animated for 2D movement.
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
-Copyright (c) 2025 Reddy-Priya-Pedhannavari
+Copyright (c) 2023 Reddy-Priya-Pedhannavari
 
 ---
 
