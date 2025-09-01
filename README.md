@@ -178,7 +178,3 @@ Created and maintained by [Reddy-Priya-Pedhannavari.](https://github.com/Reddy-P
 For questions or feedback, please open an issue or contact directly.
 
 ---
-
-
-Your name or team, email address, or link to your GitHub profile for questions.
----
