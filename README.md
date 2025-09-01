@@ -35,7 +35,9 @@ Collect extra coins along your journey for bonus points!
 
 ## About
 
-Write a short introduction to your project, its goals, and what makes it interesting.
+The Final Treasure is an exciting 2D action-adventure platformer developed in Unity using C#. Inspired by classic adventure games, it puts players in the shoes of a determined treasure hunter on a quest for a legendary artifact. Throughout the journey, players will encounter dangerous dinosaurs, a cunning witch, and a powerful dragon—all brought to life with custom animations and effects.
+
+This project was created to showcase engaging gameplay mechanics, diverse enemy encounters, and a captivating storyline, all within a visually rich environment. Unique weapon choices, collectible items, and strategic challenges make The Final Treasure both accessible to casual players and rewarding for those seeking a challenge. Whether you’re interested in game development, creative storytelling, or just looking for a fun adventure, this project demonstrates how Unity can be used to bring imaginative worlds to life.
 
 ---
 
@@ -139,10 +141,11 @@ Steps to run the project locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/YourUsername/The_Final_Treasure_Unity.git
+
    ```
-2. Open with Unity (specify recommended Unity version).
-3. Open the main scene and press Play.
+2. Open with Unity.
+3. Open the main scene(https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/e87da37d40641cc06592cb0728a73540ff1d5481/Assets/2d%20game/Scenes/main%20scene.unity) and press Play.
 
 ---
 
@@ -155,18 +158,27 @@ Animations: All main characters and enemies are animated for 2D movement.
 ---
 
 ## Requirements
-Unity Engine (recommended version: specify your Unity version)
-C#
+  * Unity Engine (Recommended version: Please specify your Unity version, e.g., 2021.3 LTS)
+  * C# (Compatible with Unity's scripting environment)
+  * Optional: ShaderLab support for custom shaders
 
 ---
 
 ## License
 
-State your license (MIT, GPL, or "All rights reserved", etc.)
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+Copyright (c) 2025 Reddy-Priya-Pedhannavari
 
 ---
 
 ## Contact
+
+Created and maintained by [Reddy-Priya-Pedhannavari.](https://github.com/Reddy-Priya-Pedhannavari)
+For questions or feedback, please open an issue or contact directly.
+
+---
+
 
 Your name or team, email address, or link to your GitHub profile for questions.
 ---
