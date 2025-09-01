@@ -49,16 +49,28 @@ Write a short introduction to your project, its goals, and what makes it interes
 
 ---
 
-## Screenshots
+# Screenshots
 
-Add game screenshots or GIFs here.
+## Screenshots and Videos here.
 
-```
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.gif)
-```
+**Screenshots:**
+
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20165152.png
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170321.png
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170417.png
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170453.png
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Images/Screenshot%202025-08-30%20170533.png
 
 ---
+
+**Videos:**
+
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250901_153155348.mp4
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_115910534.mp4
+https://github.com/Reddy-Priya-Pedhannavari/The_Final_Treasure_Unity/blob/main/Videos/Video_20250705_120341262.mp4
+
+---
+
 
 # How to Play
 
@@ -69,7 +81,13 @@ Add game screenshots or GIFs here.
 * **Movement:**
   * Use the **Right Arrow** key to move your character to the right.
   * Use the **Left Arrow** key to move your character to the left.
+  * Use the **Up Arrow** key to Jump your character to the up.
 
+* **Access Weapons:**
+  * Press Num **1** to access Knife
+  * Press Num **2** to access Gun
+  * Press Num **3** to access Super Gun
+ 
 * **Objective-Related Actions:**
   * **Attack enemies** (such as the dinosaur, witch, and dragon) using weapons like a gun or knife.
   * **Defeat the witch** by hitting her with 20 bullets to escape the magical house.
